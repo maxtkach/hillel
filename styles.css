@@ -1,0 +1,217 @@
+@font-face {
+  font-family: Brandton;
+  src: url(fonts/brandton.ttf);
+}
+
+@font-face {
+  font-family: Arial-bold;
+  src: url(fonts/ArialBold/ArialBold.ttf);
+}
+
+@font-face {
+  font-family: Arial-reg;
+  src: url(fonts/ArialRegular/ArialRegular.ttf);
+}
+
+.main {
+  height: 2460px;
+  background-color: #f0f2ea;
+}
+
+.header {
+  padding-top: 40px;
+}
+
+.logo {
+}
+
+.logo-subtitle {
+  font-family: "Arial-reg", sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #636758;
+  padding-top: 25px;
+}
+
+.wrapper {
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-top: 45px;
+  background-color: #ffffff;
+}
+
+.first-section {
+  background-image: url(images/sheeps.png);
+  background-repeat: no-repeat;
+  height: 700px;
+  background-position: center;
+  background-size: cover;
+}
+
+.name {
+  font-family: "Brandton", sans-serif;
+  color: #ffffff;
+  padding-top: 145px;
+  letter-spacing: 10px;
+  font-size: 36px;
+}
+
+.hr2 {
+  background-color: #ffffff;
+  border-top: 2px solid rgba(0, 0, 0, 0.1);
+  width: 100px;
+}
+
+.first-subtitle {
+  font-family: "Arial-reg", sans-serif;
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.hr3 {
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+.second-section {
+  padding-top: 50px;
+}
+
+.name-second {
+  color: #484a43;
+  font-family: "Arial-bold", sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.secons-cards {
+  padding-top: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.card-img-top {
+  background-repeat: no-repeat;
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+}
+
+.card-name {
+  color: #ffffff;
+  font-family: "Brandton", sans-serif;
+  font-size: 44px;
+  text-align: center;
+  padding-top: 20%;
+}
+
+.c1 {
+  background-image: url(images/card-1.png);
+}
+.c2 {
+  background-image: url(images/card-2.png);
+}
+.c3 {
+  background-image: url(images/card-3.png);
+  height: 420px;
+}
+
+.card-title {
+  font-family: "Arial-bold", sans-serif;
+  color: #6d7e44;
+}
+
+.card-text {
+  font-family: "Arial-reg", sans-serif;
+  color: #333333;
+}
+
+.cn2 {
+  padding-top: 14%;
+}
+
+.card {
+  border: none !important;
+}
+.card-body {
+  padding-left: 0px !important;
+}
+
+.third-section {
+  padding-top: 65px;
+  padding-left: 45px;
+  padding-bottom: 40px;
+}
+
+.naming {
+  font-family: "Arial-bold", sans-serif;
+  color: #333333;
+}
+
+.subnaming {
+  font-family: "Arial-reg", sans-serif;
+  color: #333333;
+  padding-top: 15px;
+}
+
+.fab {
+  font-size: 41px;
+}
+
+.fas {
+  font-size: 41px;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fa-twitter-square {
+  color: #26a6d1;
+}
+
+.fa-tumblr-square {
+  color: #34526f;
+}
+
+.fa-rss-square {
+  color: #f4b459;
+}
+
+.offset1 {
+  padding-left: 11% !important;
+}
+
+.a1 {
+  color: #6d7e44;
+  transition: all 0.2s ease;
+}
+
+.a1:hover {
+  text-decoration: none;
+  color: #484a43;
+}
+
+.links {
+  padding-top: 15px;
+}
+
+.fot {
+  font-family: "Arial-reg", sans-serif;
+  color: #333333;
+  text-align: center;
+  padding-top: 40px;
+  background-color: #f0f2ea;
+}
+
+.foot-a {
+  text-decoration: underline;
+  color: #333333;
+  transition: all 0.5s ease;
+}
+
+.foot-a:hover {
+  color: #000000;
+}
